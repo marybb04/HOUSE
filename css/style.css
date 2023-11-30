@@ -564,6 +564,11 @@ header .header__item a:active {
   -webkit-transition: all 0.3s ease-in;
   transition: all 0.3s ease-in;
 }
+@media (max-width: 768px) {
+  .fr__card .card__wrapper .card__buy {
+    font-size: 15px;
+  }
+}
 .fr__card .card__wrapper .card__buy:hover {
   color: #F4F6F5;
   background: #598D66;
