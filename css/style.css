@@ -567,6 +567,7 @@ header .header__item a:active {
 @media (max-width: 768px) {
   .fr__card .card__wrapper .card__buy {
     font-size: 15px;
+    padding: 20px 30px;
   }
 }
 .fr__card .card__wrapper .card__buy:hover {
